@@ -1,5 +1,5 @@
 # tMulti
-<a href="https://asciinema.org/a/1PYEO1RYioIOS34LEFMdwQshp?autoplay=1"><img src="https://asciinema.org/a/1PYEO1RYioIOS34LEFMdwQshp.png" width="836"/></a>
+<a href="https://asciinema.org/a/166538?autoplay=1"><img src="https://asciinema.org/a/166538.png" width="836"/></a>
 
 Clicca sulla stellina ⭐️ in alto a destra pls :3
 
