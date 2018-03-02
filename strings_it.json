@@ -1,0 +1,15 @@
+{
+  "downloading": "Scaricamento... ",
+  "done": "Fatto!",
+  "start": "Avvia",
+  "delete": "Cancella account",
+  "go_back": "Torna indietro",
+  "exit": "Esci",
+  "deleted": "Account eliminato!",
+  "a_s": "Per eliminare l'acccount scrivi il suo nome ",
+  "add_account": "Aggiungi account",
+  "t_a": "Scrivi il nome del nuovo account: ",
+  "u_tdesk": "Aggiorna Telegram Desktop",
+  "w_tdesk": "Quale versione di Telegram Desktop vuoi scaricare?",
+  "extracting": "Sto estraendo Telegram..."
+}

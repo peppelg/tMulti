@@ -1,0 +1,6 @@
+{
+    "require": {
+        "php-school/cli-menu": "^2.1",
+        "raulfraile/distill": "@stable"
+    }
+}
