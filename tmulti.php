@@ -75,7 +75,7 @@ if (!function_exists('download_tdesk')) {
             global $tmultifolder;
             if (!file_exists($tmultifolder.'/accounts/'.$account.'_telegram'))
             mkdir($tmultifolder.'/accounts/'.$account.'_telegram');
-            pclose(popen(escapeshellarg($tmultifolder.'/bin/Telegram/Telegram').' -many -workdir '.escapeshellarg($tmultifolder.'/accounts/'.$account.'_telegram').' &', 'r'));
+            shell_exec(escapeshellarg($tmultifolder.'/bin/Telegram/Telegram').' -many -workdir '.escapeshellarg($tmultifolder.'/accounts/'.$account.'_telegram'));
 	    exit;
           }
         }
