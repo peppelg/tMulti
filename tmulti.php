@@ -18,7 +18,11 @@ if (!file_exists($tmultifolder)) {
   mkdir($tmultifolder.'/accounts');
   mkdir($tmultifolder.'/temp');
 }
-$strings = json_decode(file_get_contents('strings_it.json'));
+$userlang = strtolower(trim(@shell_exec('locale | grep LANGUAGE | cut -d= -f2 | cut -d_ -f1')));
+if ($userlang == 'it')
+  $strings = json_decode(file_get_contents('strings_it.json'));
+else
+  $strings = json_decode(file_get_contents('strings_en.json'));
 if (!function_exists('progress')) {
   function progress($resource, $download_size, $downloaded, $upload_size, $uploaded) {
     global $strings;
@@ -118,7 +122,6 @@ if (!function_exists('download_tdesk')) {
           ->open();
           exit;
         }
-        //download('http://ipv4.download.thinkbroadband.com/10MB.zip', 'test.zip');
         $accounts = array_diff(scandir($tmultifolder.'/accounts'), ['.', '..']);
         $menu = new CliMenuBuilder;
         $menu->setTitle('Telegram account manager');
