@@ -3,6 +3,7 @@
   "done": "Done!",
   "start": "Start",
   "delete": "Delete account",
+  "settings": "Settings",
   "go_back": "Go back",
   "exit": "Exit",
   "deleted": "Account deleted!",
@@ -11,5 +12,13 @@
   "t_a": "Type the new account's name: ",
   "u_tdesk": "Update Telegram Desktop",
   "w_tdesk": "Select a Telegram Desktop version.",
-  "extracting": "Extracting Telegram..."
+  "extracting": "Extracting Telegram...",
+  "wdywtd": "What do you want to do?",
+  "cl": "Change language",
+  "sl": "Select your language",
+  "change_colour": "Change colour",
+  "select_colour": "Select a colour",
+  "hide": "Hide when Telegram Desktop is running",
+  "h_y": "tMulti will be hidden when Telegram Desktop is running",
+  "h_n": "tMulti will not be hidden when Telegram Desktop is running"
 }
