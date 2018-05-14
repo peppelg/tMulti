@@ -1,5 +1,5 @@
 # tMulti
-<a href="https://asciinema.org/a/166538?autoplay=1"><img src="https://asciinema.org/a/166538.png" width="836"/></a>
+[![Guarda tMulti in azione](https://i.imgur.com/GIpufsO.png)](https://peppelg.github.io/play.html?video=https://github.com/peppelg/tMulti/blob/master/demo.mp4?raw=true)
 
 Clicca sulla stellina ⭐️ in alto a destra pls :3
 
