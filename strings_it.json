@@ -3,6 +3,7 @@
   "done": "Fatto!",
   "start": "Avvia",
   "delete": "Cancella account",
+  "settings": "Impostazioni",
   "go_back": "Torna indietro",
   "exit": "Esci",
   "deleted": "Account eliminato!",
@@ -11,5 +12,13 @@
   "t_a": "Scrivi il nome del nuovo account: ",
   "u_tdesk": "Aggiorna Telegram Desktop",
   "w_tdesk": "Quale versione di Telegram Desktop vuoi scaricare?",
-  "extracting": "Sto estraendo Telegram..."
+  "extracting": "Sto estraendo Telegram...",
+  "wdywtd": "Che cosa vuoi fare?",
+  "cl": "Cambia lingua",
+  "sl": "Seleziona la tua lingua",
+  "change_colour": "Cambia colore",
+  "select_colour": "Seleziona un colore",
+  "hide": "Nascondi quando Telegram Desktop è in esecuzione",
+  "h_y": "tMulti sarà nascosto quando Telegram Desktop è in esecuzione",
+  "h_n": "tMulti non sarà nascosto quando Telegram Desktop è in esecuzione"
 }
